@@ -1,6 +1,6 @@
 ### Hi there 👋
 My Name is Gabriel Push. Welcome to my GitHub!
-- 📚 I am currently a Freshman studying Computer Science at UM-Dearborn
+- 📚 I am currently a Freshman studying Computer Science at UM-Dearborn in the Honors Program
 - 💻 iOS Developer at the Apple Developer Academy - MSU Detroit
 <!--
 **gabe-push/gabe-push** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
