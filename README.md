@@ -1,7 +1,15 @@
 ### Hi there 👋
 My Name is Gabriel Push. Welcome to my GitHub!
 - 📚 I am currently a Freshman studying Computer Science at UM-Dearborn in the Honors Program
+- 📚 4.00 GPA
 - 💻 iOS Developer at the Apple Developer Academy - MSU Detroit
+- 🌱 I’m currently learning C++, Swift/Swift UI, and iOS Development
+- 💻 Some skills I have are C++, Swift, Swift UI, Xcode, VSCode, Sketch, Firebase, MapKit, TestFlight
+- 📫 Reach me at: gabepush@gmail.com
+- 💬 Ask me about my TailMate, FireLite, and Computer Order projects!
+
+
+  
 <!--
 **gabe-push/gabe-push** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
