@@ -5,7 +5,7 @@ My Name is Gabriel Push. Welcome to my GitHub!
 - 💻 iOS Developer at the Apple Developer Academy - MSU Detroit
 - 🌱 I’m currently learning C++, Swift/Swift UI, and iOS Development
 - 💻 Some skills I have are C++, Swift, Swift UI, Xcode, VSCode, Sketch, Firebase, MapKit, TestFlight
-- 📫 Reach me at: gabepush@gmail.com
+- 📫 Reach me at: gabepush@gmail.com or https://www.linkedin.com/in/gabriel-push-11a767278/
 - 💬 Ask me about my TailMate, FireLite, and Computer Order projects!
 
 
