@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hi there 👋
+
 My Name is Gabriel Push. Welcome to my GitHub!
+
+## Resume
+[GabePush-Resume.pdf](https://github.com/gabe-push/gabe-push/files/15163707/GabePush-Resume.pdf)
+
 - 📚 I am currently a Freshman studying Computer Science at UM-Dearborn in the Honors Program
 - 📚 4.00 GPA
 - 💻 iOS Developer at the Apple Developer Academy - MSU Detroit
