@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My Name is Gabriel Push. Welcome to my GitHub!
+My name is Gabriel Push. Welcome to my GitHub!
 
 ## Resume
 [GabePush-Resume.pdf](https://github.com/gabe-push/gabe-push/files/15163707/GabePush-Resume.pdf)
