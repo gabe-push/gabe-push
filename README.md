@@ -8,7 +8,7 @@ My Name is Gabriel Push. Welcome to my GitHub!
 - 📚 I am entering my Sophomore year studying Computer Science at UM-Dearborn in the Honors Program
 - 📚 4.00 GPA
 - 💻 iOS Developer at the Apple Developer Academy - MSU Detroit
--    WWDC 24
+-    WWDC 24
 - 🌱 I’m currently learning C++, Swift/Swift UI, and iOS Development
 - 💻 Some skills I have are C++, Swift, Swift UI, Xcode, VSCode, Sketch, Firebase, MapKit, TestFlight
 - 📫 Reach me at: gabepush@gmail.com or https://www.linkedin.com/in/gabriel-push-11a767278/
