@@ -11,8 +11,8 @@ My name is Gabriel Push. Welcome to my GitHub!
 -    WWDC 24
 - 🌱 I’m currently learning C++, Swift/Swift UI, and iOS Development
 - 💻 Some skills I have are C++, Swift, Swift UI, Xcode, VSCode, Sketch, Firebase, MapKit, TestFlight
-- 📫 Reach me at: gabepush@gmail.com or https://www.linkedin.com/in/gabriel-push-11a767278/
-- 💬 Ask me about my TailMate, FireLite, and Computer Order projects!
+- 📫 Reach me at: gabepush@gmail.com or https://www.linkedin.com/in/gabriel-push/
+- 💬 Ask me about my Hypnago, TailMate, and Computer Order projects!
 
 
   
