@@ -3,7 +3,8 @@
 My name is Gabriel Push. Welcome to my GitHub!
 
 ## Resume
-[GabePush-Resume.pdf](https://github.com/user-attachments/files/15972105/GabePush-Resume.pdf)
+
+[GabePush-Resume.pdf](https://github.com/user-attachments/files/16354330/GabePush-Resume.pdf)
 
 
 
