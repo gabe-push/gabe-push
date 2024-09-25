@@ -2,10 +2,6 @@
 
 My name is Gabriel Push. Welcome to my GitHub!
 
-## Resume
-
-[GabePush-Resume.pdf](https://github.com/user-attachments/files/16354330/GabePush-Resume.pdf)
-
 
 
 - 📚 I am entering my Sophomore year studying Computer Science at UM-Dearborn in the Honors Program
