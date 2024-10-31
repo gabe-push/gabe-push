@@ -4,11 +4,11 @@ My name is Gabriel Push. Welcome to my GitHub!
 
 
 
-- 📚 I am entering my Sophomore year studying Computer Science at UM-Dearborn in the Honors Program
+- 📚 I am entering my Sophomore year studying Computer Science at the University of Michigan
 - 📚 4.00 GPA
 - 💻 iOS Developer at the Apple Developer Academy - MSU Detroit
 -    WWDC 24
-- 🌱 I’m currently learning C++, Swift/Swift UI, and iOS Development
+- 🌱 I’m currently learning C++, Swift/Swift UI, Python, and iOS Development
 - 💻 Some skills I have are C++, Swift, Swift UI, Xcode, VSCode, Sketch, Firebase, MapKit, TestFlight
 - 📫 Reach me at: gabepush@gmail.com or https://www.linkedin.com/in/gabriel-push/
 - 💬 Ask me about my Hypnago, TailMate, and Computer Order projects!
